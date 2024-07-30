@@ -1,4 +1,4 @@
-Hi, it's Qian here! I'm a front-end software engineer dabbling in full-stack development.
+Hi, it's Qian here! I'm a front-end software engineer, currently dabbling in full-stack development.
 
 ### About Me 🎏
 
