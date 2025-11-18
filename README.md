@@ -5,7 +5,7 @@ Hi, it's Qian here! I'm a front-end software engineer, currently dabbling in ful
 I'm an experienced software engineer with 5+ years of experience, specialising in web and front-end development. While I initially have a background in Psychology, I have also gone through a full-stack Ruby on Rails web development bootcamp, and worked in tech ever since. I enjoy using clean, modular code to create UI that provides a great user experience. I also enjoy learning and keeping up to date with the latest tech trends.
 
 ### Technical Skills 🧰
-- **Languages**: Javascript, TypeScript, HTML, CSS, Ruby
+- **Languages**: Javascript, TypeScript, HTML, CSS, Python, Ruby
 - **Frameworks and Libraries**: React, Next.js, Jest, Storybook, Rails
 - **Tools and Platforms**: Github, CircleCI
 
